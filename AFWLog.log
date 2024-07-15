@@ -1,0 +1,20 @@
+20:54:27.916 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Execution Started
+20:54:30.581 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is set up
+20:54:36.609 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user is on the login page
+20:54:36.822 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters User Name
+20:54:36.973 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters Password
+20:54:39.864 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - clicks on the Login Button
+20:54:39.920 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Actual Home Page Title: Guru99 Bank Manager HomePage
+20:54:39.923 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user should be redirected to the home page
+20:54:39.940 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the home page title should be Guru99 Bank Manager HomePage
+20:54:40.295 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is quit
+20:56:23.343 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Execution Started
+20:56:25.872 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is set up
+20:56:27.047 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user is on the login page
+20:56:33.245 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters User Name
+20:56:33.405 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters Password
+20:56:35.360 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - clicks on the Login Button
+20:56:35.424 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Actual Home Page Title: Guru99 Bank Manager HomePage
+20:56:35.429 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user should be redirected to the home page
+20:56:35.627 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the home page title should be Guru99 Bank Manager HomePage
+20:56:35.983 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is quit

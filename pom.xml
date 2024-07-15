@@ -1,0 +1,104 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>automationFrameWork</groupId>
+    <artifactId>automationFrameWork</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+
+   <properties>
+	    <maven.compiler.source>1.8</maven.compiler.source>
+	    <maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+  
+   <dependencies>
+		<!-- io.cucumber/cucumber-java -->
+		<dependency>
+		    <groupId>io.cucumber</groupId>
+		    <artifactId>cucumber-java</artifactId>
+		    <version>7.18.0</version>
+		    <scope>test</scope>
+		</dependency>
+		
+		<!-- io.cucumber/cucumber-junit -->
+		<dependency>
+		    <groupId>io.cucumber</groupId>
+		    <artifactId>cucumber-junit</artifactId>
+		    <version>7.18.0</version>
+		    <scope>test</scope>
+		</dependency>
+		
+		<!--/io.cucumber/cucumber-gherkin -->
+		<dependency>
+		    <groupId>io.cucumber</groupId>
+		    <artifactId>cucumber-gherkin</artifactId>
+		    <version>7.18.0</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-junit4 -->
+		<dependency>
+		    <groupId>io.qameta.allure</groupId>
+		    <artifactId>allure-junit4</artifactId>
+		    <version>2.22.2</version>
+		    <scope>test</scope>
+		</dependency>
+
+		
+		<!-- /org.seleniumhq.selenium/selenium-java -->
+		<dependency>
+		    <groupId>org.seleniumhq.selenium</groupId>
+		    <artifactId>selenium-java</artifactId>
+		    <version>4.22.0</version>
+		</dependency>
+		
+		<!--/org.apache.logging.log4j/log4j-api -->
+		<dependency>
+		    <groupId>org.apache.logging.log4j</groupId>
+		    <artifactId>log4j-api</artifactId>
+		    <version>2.14.1</version>
+		</dependency>
+		
+		<!-- /org.apache.logging.log4j/log4j-core -->
+		<dependency>
+		    <groupId>org.apache.logging.log4j</groupId>
+		    <artifactId>log4j-core</artifactId>
+		    <version>2.14.1</version>
+		</dependency>
+		
+		<dependency>
+	    <groupId>com.fasterxml.jackson.core</groupId>
+	    <artifactId>jackson-databind</artifactId>
+	    <version>2.12.5</version> <!-- or the latest version -->
+	</dependency>
+	
+	<dependency>
+		    <groupId>io.github.bonigarcia</groupId>
+		    <artifactId>webdrivermanager</artifactId>
+		    <version>5.9.1</version>
+		</dependency>
+
+	<dependency>
+		<groupId>com.webDriver.Manager</groupId>
+		<artifactId>com.webDriver.Manager</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+   </dependencies>
+	  
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.13.0</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+      <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>3.2.5</version>
+        </plugin>
+    </plugins>
+  </build>
+</project>

@@ -1,0 +1,38 @@
+12:37:14.552 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Execution Started
+12:37:21.813 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is set up
+12:43:45.064 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is quit
+12:45:28.197 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Execution Started
+12:45:31.614 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is set up
+12:48:24.308 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Execution Started
+12:48:27.345 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is set up
+12:49:55.107 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is quit
+13:22:13.052 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Execution Started
+13:22:16.812 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is set up
+13:22:22.661 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user is on the login page
+13:22:22.959 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters User Name
+13:22:23.170 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters Password
+13:22:25.811 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - clicks on the Login Button
+13:22:25.844 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Actual Home Page Title: Guru99 Bank Manager HomePage
+13:22:25.853 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user should be redirected to the home page
+13:22:25.873 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the home page title should be {string}
+13:22:26.224 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is quit
+13:22:38.528 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Execution Started
+13:22:41.376 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is set up
+13:22:47.874 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user is on the login page
+13:22:48.061 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters User Name
+13:22:48.210 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters Password
+13:22:50.629 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - clicks on the Login Button
+13:22:50.662 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Actual Home Page Title: Guru99 Bank Manager HomePage
+13:22:50.673 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user should be redirected to the home page
+13:22:50.692 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the home page title should be {string}
+13:22:51.126 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is quit
+13:44:46.045 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Execution Started
+13:44:49.677 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is set up
+13:44:55.147 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user is on the login page
+13:44:55.450 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters User Name
+13:44:55.614 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Enters Password
+13:44:58.191 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - clicks on the Login Button
+13:44:58.240 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - Actual Home Page Title: Guru99 Bank Manager HomePage
+13:44:58.246 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the user should be redirected to the home page
+13:44:58.276 [main] INFO  com.afw.StepDefinition.Verify_UserName_Step_Def - the home page title should be {string}
+13:44:58.779 [main] INFO  com.afw.StepDefinition.CommonStepDefinition - Driver is quit
